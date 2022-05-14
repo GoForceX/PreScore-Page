@@ -14,8 +14,8 @@ hide_table_of_contents: true
 
 :::
 
-测试版下载: [v0.5.0-beta.1+build.38](https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-app/38/artifacts/release-build-38.apk)
+测试版下载: [v0.5.0-build.39](https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-app/39/artifacts/release-build-39.apk)
 
 Checksum:
 
-> MD5: c4c26f6883f1604216de4fa06ad0bcd5
+> MD5: e1587b9cf64a22e49c275e25da91fe31

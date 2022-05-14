@@ -14,7 +14,7 @@ hide_table_of_contents: true
 
 :::
 
-测试版下载: [v0.5.0-build.37](https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-app/37/artifacts/release-build-37.apk)
+测试版下载: [v0.5.0-beta.1+build.38](https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-app/38/artifacts/release-build-38.apk)
 
 Checksum:
 

@@ -8,13 +8,19 @@ hide_table_of_contents: true
 
 :::danger
 
-**呐，你知道你在做什么吧？**
+注意别把手机玩坏哦（笑
 
-别怪我没提醒过哦（
+![啊对对对](../../static/img/kaibai.jpg)
 
 :::
 
 ## Native 测试版
+
+:::caution
+
+不出意外你最好用下面那个哦~
+
+:::
 
 测试版下载: [v0.5.1-build.41](https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-app/41/artifacts/release-build-41.apk)
 
@@ -30,8 +36,8 @@ Checksum:
 
 :::
 
-测试版下载: [v0.10.0-build.6](https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/6/artifacts/release-build-6.apk)
+测试版下载: [v0.11.0-build.9](https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/9/artifacts/release-build-9.apk)
 
 Checksum: 
 
-> MD5: a0560fdbf68bb003680316e9000287dd
+> MD5: 11a1cf654f2d03a7d983a54920365ac8

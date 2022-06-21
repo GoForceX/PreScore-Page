@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>出分啦！</title>
+        <item>
+            <title>版本 0.12.0</title>
+            <description>更新了新功能！</description>
+            <pubDate>Tue, 21 Jun 2022 12:00:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/12/artifacts/release-build-12.apk" sparkle:version="0.12.0.12" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>

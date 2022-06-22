@@ -3,16 +3,10 @@
     <channel>
         <title>出分啦！</title>
         <item>
-            <title>版本 0.13.1</title>
+            <title>版本 0.14.1</title>
             <description>更新了新功能！</description>
-            <pubDate>Tue, 22 Jun 2022 16:00:00 +0800</pubDate>
-            <enclosure sparkle:version="0.99.99" sparkle:os="android" />
-        </item>
-        <item>
-            <title>版本 0.13.1</title>
-            <description>更新了新功能！</description>
-            <pubDate>Tue, 22 Jun 2022 16:00:00 +0800</pubDate>
-            <enclosure sparkle:version="0.99.99" sparkle:os="windows" />
+            <pubDate>Tue, 22 Jun 2022 20:00:00 +0800</pubDate>
+            <enclosure sparkle:version="0.14.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>

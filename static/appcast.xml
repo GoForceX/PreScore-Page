@@ -3,10 +3,10 @@
     <channel>
         <title>出分啦！</title>
         <item>
-            <title>版本 0.12.0</title>
+            <title>版本 0.13.1</title>
             <description>更新了新功能！</description>
-            <pubDate>Tue, 21 Jun 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/12/artifacts/release-build-12.apk" sparkle:version="0.12.0.12" sparkle:os="android" />
+            <pubDate>Tue, 22 Jun 2022 16:00:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/15/artifacts/release-build-15.apk" sparkle:version="0.99.99" sparkle:os="android" />
         </item>
     </channel>
 </rss>

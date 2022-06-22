@@ -6,7 +6,13 @@
             <title>版本 0.13.1</title>
             <description>更新了新功能！</description>
             <pubDate>Tue, 22 Jun 2022 16:00:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/15/artifacts/release-build-15.apk" sparkle:version="0.99.99" sparkle:os="android" />
+            <enclosure sparkle:version="0.99.99" sparkle:os="android" />
+        </item>
+        <item>
+            <title>版本 0.13.1</title>
+            <description>更新了新功能！</description>
+            <pubDate>Tue, 22 Jun 2022 16:00:00 +0800</pubDate>
+            <enclosure sparkle:version="0.99.99" sparkle:os="windows" />
         </item>
     </channel>
 </rss>

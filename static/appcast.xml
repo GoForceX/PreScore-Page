@@ -14,5 +14,11 @@
             <pubDate>Tue, 23 Jun 2022 09:00:00 +0800</pubDate>
             <enclosure sparkle:version="0.15.0.20" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.15.1</title>
+            <description>更新了新功能，而且修复了一些问题。</description>
+            <pubDate>Tue, 23 Jun 2022 09:20:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/22/artifacts/release-build-22.apk" sparkle:version="0.15.1.22" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

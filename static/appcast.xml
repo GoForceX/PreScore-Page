@@ -20,5 +20,17 @@
             <pubDate>Tue, 23 Jun 2022 09:20:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/22/artifacts/release-build-22.apk" sparkle:version="0.15.1.22" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.16.0</title>
+            <description>更新了新功能，而且修复了一些问题。</description>
+            <pubDate>Tue, 23 Jun 2022 11:30:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/24/artifacts/release-build-24.apk" sparkle:version="0.16.0.24" sparkle:os="android" />
+        </item>
+        <item>
+            <title>版本 0.16.1</title>
+            <description>更新了新功能，而且修复了一些问题。</description>
+            <pubDate>Tue, 23 Jun 2022 11:40:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/25/artifacts/release-build-25.apk" sparkle:version="0.16.1.25" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

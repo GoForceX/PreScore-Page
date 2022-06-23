@@ -36,8 +36,8 @@ Checksum:
 
 :::
 
-测试版下载: [v0.15.1-build.21](https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/21/artifacts/release-build-21.apk)
+测试版下载: [v0.16.1-build.25](https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/25/artifacts/release-build-25.apk)
 
 Checksum: 
 
-> MD5: 6f45467781ee9bb879dc822e5a17d7d2
+> MD5: 4d4d468f0c8ff1cf8a21340b16649dbe

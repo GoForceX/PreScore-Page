@@ -56,5 +56,11 @@
             <pubDate>Tue, 23 Jun 2022 14:05:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/29/artifacts/release-build-29.apk" sparkle:version="0.16.5.29" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.16.6</title>
+            <description>修复了多次重复弹窗和根本不弹窗的bug。</description>
+            <pubDate>Tue, 23 Jun 2022 15:05:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/32/artifacts/release-build-32.apk" sparkle:version="0.16.6.32" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

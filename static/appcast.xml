@@ -8,5 +8,11 @@
             <pubDate>Tue, 22 Jun 2022 20:00:00 +0800</pubDate>
             <enclosure sparkle:version="0.14.1" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.15.0</title>
+            <description>更新了新功能！</description>
+            <pubDate>Tue, 23 Jun 2022 09:00:00 +0800</pubDate>
+            <enclosure sparkle:version="0.15.0.20" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

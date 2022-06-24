@@ -68,5 +68,11 @@
             <pubDate>Tue, 24 Jun 2022 11:25:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/41/artifacts/release-build-41.apk" sparkle:version="0.17.0.41" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.17.1</title>
+            <description>修复了设置条目重复问题。</description>
+            <pubDate>Tue, 24 Jun 2022 11:35:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/42/artifacts/release-build-42.apk" sparkle:version="0.17.1.42" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

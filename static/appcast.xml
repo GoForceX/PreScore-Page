@@ -62,5 +62,11 @@
             <pubDate>Tue, 23 Jun 2022 15:05:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/32/artifacts/release-build-32.apk" sparkle:version="0.16.6.32" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.17.0</title>
+            <description>增加了班排名显示。</description>
+            <pubDate>Tue, 24 Jun 2022 11:25:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/41/artifacts/release-build-41.apk" sparkle:version="0.17.0.41" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

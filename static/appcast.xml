@@ -74,5 +74,11 @@
             <pubDate>Tue, 24 Jun 2022 11:35:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/42/artifacts/release-build-42.apk" sparkle:version="0.17.1.42" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.17.2</title>
+            <description>添加了密码显示功能。</description>
+            <pubDate>Tue, 2 Jul 2022 22:15:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/44/artifacts/release-build-44.apk" sparkle:version="0.17.2.44" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

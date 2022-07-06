@@ -87,7 +87,7 @@
                 改变了用户数据存储位置，可能需要重新登录。
             </description>
             <pubDate>Tue, 6 Jul 2022 16:30:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/44/artifacts/release-build-44.apk" sparkle:version="0.17.2.44" sparkle:os="android" />
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/44/artifacts/release-build-44.apk" sparkle:version="0.18.0.49" sparkle:os="android" />
         </item>
     </channel>
 </rss>

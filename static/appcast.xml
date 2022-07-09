@@ -90,5 +90,15 @@
             <pubDate>Tue, 6 Jul 2022 16:30:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/49/artifacts/release-build-49.apk" sparkle:version="0.18.0.49" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.18.1</title>
+            <description>
+修复了一些bug。
+优化了内部登录流程。
+如多次更新失败，请自行跳转网页下载。
+            </description>
+            <pubDate>Tue, 9 Jul 2022 17:00:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/51/artifacts/release-build-51.apk" sparkle:version="0.18.1.51" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

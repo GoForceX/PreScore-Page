@@ -24,6 +24,6 @@ hide_table_of_contents: true
 
 :::
 
-测试版下载: [v0.21.1-build.69](https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/69/artifacts/release-build-69.apk)
+测试版下载: [v0.22.0-build.70](https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/70/artifacts/release-build-70.apk)
 
-Checksum: a99391211cbb5570ca6034bca8f8f4bd
+Checksum: 09044ef131fc2d2c367c01e9bff44fc1

@@ -111,5 +111,15 @@
             <pubDate>Tue, 30 Aug 2022 17:00:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/72/artifacts/release-build-72.apk" sparkle:version="0.22.1.72" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.22.2</title>
+            <description>
+紧急修复了bug。
+更新了一些功能。
+如多次更新失败，请自行跳转网页下载。
+            </description>
+            <pubDate>Tue, 3 Sep 2022 13:00:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/74/artifacts/release-build-74.apk" sparkle:version="0.22.2.74" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

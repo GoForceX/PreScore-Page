@@ -149,5 +149,15 @@
             <pubDate>Tue, 1 Oct 2022 17:00:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/93/artifacts/release-build-93.apk" sparkle:version="0.26.1.93" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.26.2</title>
+            <description>
+修复了一些问题。
+不是功能更新！
+如多次更新失败，请自行跳转网页下载。
+            </description>
+            <pubDate>Tue, 15 Oct 2022 01:00:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/97/artifacts/release-build-97.apk" sparkle:version="0.26.2.97" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

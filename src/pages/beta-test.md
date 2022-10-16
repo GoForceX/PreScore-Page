@@ -24,6 +24,6 @@ hide_table_of_contents: true
 
 :::
 
-测试版下载: [v0.22.1-build.72](https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/72/artifacts/release-build-72.apk)
+测试版下载: [v0.22.1-build.72](https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/72/artifacts/release-build-72.apk)
 
 Checksum: 714d2aba4f941ee0d0759fab8b2dbdae

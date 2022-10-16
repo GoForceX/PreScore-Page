@@ -18,67 +18,67 @@
             <title>版本 0.15.1</title>
             <description>更新了新功能，而且修复了一些问题。</description>
             <pubDate>Tue, 23 Jun 2022 09:20:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/22/artifacts/release-build-22.apk" sparkle:version="0.15.1.22" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/22/artifacts/release-build-22.apk" sparkle:version="0.15.1.22" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.16.0</title>
             <description>更新了新功能，而且修复了一些问题。</description>
             <pubDate>Tue, 23 Jun 2022 11:30:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/24/artifacts/release-build-24.apk" sparkle:version="0.16.0.24" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/24/artifacts/release-build-24.apk" sparkle:version="0.16.0.24" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.16.1</title>
             <description>更新了新功能，而且修复了一些问题。</description>
             <pubDate>Tue, 23 Jun 2022 11:40:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/25/artifacts/release-build-25.apk" sparkle:version="0.16.1.25" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/25/artifacts/release-build-25.apk" sparkle:version="0.16.1.25" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.16.2</title>
             <description>更新了新功能，而且修复了一些问题。</description>
             <pubDate>Tue, 23 Jun 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/26/artifacts/release-build-26.apk" sparkle:version="0.16.2.26" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/26/artifacts/release-build-26.apk" sparkle:version="0.16.2.26" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.16.3</title>
             <description>更新了新功能，而且修复了一些问题。</description>
             <pubDate>Tue, 23 Jun 2022 13:00:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/27/artifacts/release-build-27.apk" sparkle:version="0.16.3.27" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/27/artifacts/release-build-27.apk" sparkle:version="0.16.3.27" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.16.4</title>
             <description>修复了多次重复弹窗的bug。</description>
             <pubDate>Tue, 23 Jun 2022 13:15:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/28/artifacts/release-build-28.apk" sparkle:version="0.16.4.28" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/28/artifacts/release-build-28.apk" sparkle:version="0.16.4.28" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.16.5</title>
             <description>修复了多次重复弹窗和根本不弹窗的bug。</description>
             <pubDate>Tue, 23 Jun 2022 14:05:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/29/artifacts/release-build-29.apk" sparkle:version="0.16.5.29" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/29/artifacts/release-build-29.apk" sparkle:version="0.16.5.29" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.16.6</title>
             <description>修复了多次重复弹窗和根本不弹窗的bug。</description>
             <pubDate>Tue, 23 Jun 2022 15:05:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/32/artifacts/release-build-32.apk" sparkle:version="0.16.6.32" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/32/artifacts/release-build-32.apk" sparkle:version="0.16.6.32" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.17.0</title>
             <description>增加了班排名显示。</description>
             <pubDate>Tue, 24 Jun 2022 11:25:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/41/artifacts/release-build-41.apk" sparkle:version="0.17.0.41" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/41/artifacts/release-build-41.apk" sparkle:version="0.17.0.41" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.17.1</title>
             <description>修复了设置条目重复问题。</description>
             <pubDate>Tue, 24 Jun 2022 11:35:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/42/artifacts/release-build-42.apk" sparkle:version="0.17.1.42" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/42/artifacts/release-build-42.apk" sparkle:version="0.17.1.42" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.17.2</title>
             <description>添加了密码显示功能。</description>
             <pubDate>Tue, 2 Jul 2022 22:15:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/44/artifacts/release-build-44.apk" sparkle:version="0.17.2.44" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/44/artifacts/release-build-44.apk" sparkle:version="0.17.2.44" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.18.0</title>
@@ -88,7 +88,7 @@
 如多次失败，请自行跳转网页下载。
             </description>
             <pubDate>Tue, 6 Jul 2022 16:30:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/49/artifacts/release-build-49.apk" sparkle:version="0.18.0.49" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/49/artifacts/release-build-49.apk" sparkle:version="0.18.0.49" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.18.1</title>
@@ -98,7 +98,7 @@
 如多次更新失败，请自行跳转网页下载。
             </description>
             <pubDate>Tue, 9 Jul 2022 17:00:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/51/artifacts/release-build-51.apk" sparkle:version="0.18.1.51" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/51/artifacts/release-build-51.apk" sparkle:version="0.18.1.51" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.22.1</title>
@@ -109,7 +109,7 @@
 如多次更新失败，请自行跳转网页下载。
             </description>
             <pubDate>Tue, 30 Aug 2022 17:00:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/72/artifacts/release-build-72.apk" sparkle:version="0.22.1.72" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/72/artifacts/release-build-72.apk" sparkle:version="0.22.1.72" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.22.2</title>
@@ -119,7 +119,7 @@
 如多次更新失败，请自行跳转网页下载。
             </description>
             <pubDate>Tue, 3 Sep 2022 13:00:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/74/artifacts/release-build-74.apk" sparkle:version="0.22.2.74" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/74/artifacts/release-build-74.apk" sparkle:version="0.22.2.74" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.24.0</title>
@@ -129,7 +129,7 @@
 如多次更新失败，请自行跳转网页下载。
             </description>
             <pubDate>Tue, 10 Sep 2022 15:00:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/78/artifacts/release-build-78.apk" sparkle:version="0.24.0.78" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/78/artifacts/release-build-78.apk" sparkle:version="0.24.0.78" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.25.0</title>
@@ -138,7 +138,7 @@
 如多次更新失败，请自行跳转网页下载。
             </description>
             <pubDate>Tue, 12 Sep 2022 22:00:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/89/artifacts/release-build-89.apk" sparkle:version="0.25.0.89" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/89/artifacts/release-build-89.apk" sparkle:version="0.25.0.89" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.26.1</title>
@@ -147,7 +147,7 @@
 如多次更新失败，请自行跳转网页下载。
             </description>
             <pubDate>Tue, 1 Oct 2022 17:00:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/93/artifacts/release-build-93.apk" sparkle:version="0.26.1.93" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/93/artifacts/release-build-93.apk" sparkle:version="0.26.1.93" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.26.2</title>
@@ -157,7 +157,7 @@
 如多次更新失败，请自行跳转网页下载。
             </description>
             <pubDate>Tue, 15 Oct 2022 01:00:00 +0800</pubDate>
-            <enclosure url="https://pub-fb952e33136042d0a46747d80da6bc72.r2.dev/artifacts/prescore-flutter/97/artifacts/release-build-97.apk" sparkle:version="0.26.2.97" sparkle:os="android" />
+            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/97/artifacts/release-build-97.apk" sparkle:version="0.26.2.97" sparkle:os="android" />
         </item>
     </channel>
 </rss>

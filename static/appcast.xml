@@ -167,8 +167,18 @@
 如多次更新失败，请自行跳转网页下载。
 （本次更新大约需要 32MiB 流量）
             </description>
-            <pubDate>Tue, 1 Nov 2022 19:30:00 +0800</pubDate>
+            <pubDate>Thu, 3 Nov 2022 14:30:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/136/artifacts/release-build-136.apk" sparkle:version="0.28.1.136" sparkle:os="android" />
+        </item>
+        <item>
+            <title>版本 0.28.2</title>
+            <description>
+修复了一些问题。
+如多次更新失败，请自行跳转网页下载。
+（本次更新大约需要 32MiB 流量）
+            </description>
+            <pubDate>Thu, 3 Nov 2022 15:10:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/137/artifacts/release-build-137.apk" sparkle:version="0.28.2.137" sparkle:os="android" />
         </item>
     </channel>
 </rss>

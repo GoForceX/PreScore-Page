@@ -160,7 +160,7 @@
             <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/97/artifacts/release-build-97.apk" sparkle:version="0.26.2.97" sparkle:os="android" />
         </item>
         <item>
-            <title>版本 0.28.0</title>
+            <title>版本 0.28.1</title>
             <description>
 修复了一些问题。
 更新了赋分、下拉刷新等功能。
@@ -168,7 +168,7 @@
 （本次更新大约需要 32MiB 流量）
             </description>
             <pubDate>Tue, 1 Nov 2022 19:30:00 +0800</pubDate>
-            <enclosure url="https://matrix-dl.bjbybbs.com/artifacts/prescore-flutter/135/artifacts/release-build-135.apk" sparkle:version="0.28.0.135" sparkle:os="android" />
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/artifacts/prescore-flutter/136/artifacts/release-build-136.apk" sparkle:version="0.28.1.136" sparkle:os="android" />
         </item>
     </channel>
 </rss>

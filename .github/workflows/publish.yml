@@ -27,4 +27,4 @@ jobs:
           port: ${{ secrets.PORT }}
           source: ./build
           target: ${{ secrets.DEST_PATH }}
-          rm: true
+          overwrite: true

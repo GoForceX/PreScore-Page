@@ -28,3 +28,4 @@ jobs:
           source: ./build/*
           target: ${{ secrets.DEST_PATH }}
           overwrite: true
+          strip_components: 1

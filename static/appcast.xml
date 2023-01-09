@@ -190,5 +190,15 @@
             <pubDate>Thu, 5 Jan 2023 11:10:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/123/apk/app-release-signed.apk" sparkle:version="0.29.0.1123" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.29.2</title>
+            <description>
+修复了赋分和分数显示错误的问题。
+如多次更新失败，请自行跳转网页下载。
+（本次更新大约需要 34MiB 流量）
+            </description>
+            <pubDate>Thu, 9 Jan 2023 15:10:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/125/apk/app-release-signed.apk" sparkle:version="0.29.2.1125" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

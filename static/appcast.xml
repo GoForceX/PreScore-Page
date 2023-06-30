@@ -218,7 +218,7 @@
 （本次更新大约需要 34MiB 流量）
             </description>
             <pubDate>Thu, 30 Jun 2023 14:30:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/1133/apk/app-release-signed.apk" sparkle:version="0.31.0.1133" sparkle:os="android" />
+            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/133/apk/app-release-signed.apk" sparkle:version="0.31.0.1133" sparkle:os="android" />
         </item>
     </channel>
 </rss>

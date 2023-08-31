@@ -220,15 +220,5 @@
             <pubDate>Thu, 30 Jun 2023 14:30:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/133/apk/app-release-signed.apk" sparkle:version="0.31.0.1133" sparkle:os="android" />
         </item>
-        <item>
-            <title>版本 0.32.0</title>
-            <description>
-添加了科目成绩分布查看功能。
-如多次更新失败，请自行跳转网页下载。
-（本次更新大约需要 34MiB 流量）
-            </description>
-            <pubDate>Thu, 31 Aug 2023 21:30:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/138/apk/app-release-signed.apk" sparkle:version="0.32.0.1138" sparkle:os="android" />
-        </item>
     </channel>
 </rss>

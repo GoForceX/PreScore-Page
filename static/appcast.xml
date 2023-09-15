@@ -231,5 +231,16 @@
             <pubDate>Thu, 31 Aug 2023 22:00:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/141/apk/app-release-signed.apk" sparkle:version="0.32.2.1141" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.32.3</title>
+            <description>
+添加了对于 Android 13 的适配。
+因权限问题，部分用户可能需要跳转网页下载并安装。
+如多次更新失败，请自行跳转网页下载。
+（本次更新大约需要 34MiB 流量）
+            </description>
+            <pubDate>Thu, 15 Sep 2023 20:30:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/142/apk/app-release-signed.apk" sparkle:version="0.32.3.1142" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

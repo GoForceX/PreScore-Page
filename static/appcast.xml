@@ -253,5 +253,16 @@
             <pubDate>Thu, 5 Oct 2023 17:30:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/144/apk/app-release-signed.apk" sparkle:version="0.33.0.1144" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.34.0</title>
+            <description>
+添加了成绩一览功能。
+因权限问题，部分用户可能需要跳转网页下载并安装。
+如多次更新失败，请自行跳转网页下载。
+（本次更新大约需要 34MiB 流量）
+            </description>
+            <pubDate>Thu, 10 Oct 2023 19:30:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/145/apk/app-release-signed.apk" sparkle:version="0.34.0.1145.14" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

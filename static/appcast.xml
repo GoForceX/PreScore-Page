@@ -188,7 +188,7 @@
 （本次更新大约需要 34MiB 流量）
             </description>
             <pubDate>Thu, 5 Jan 2023 11:10:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/123/apk/app-release-signed.apk" sparkle:version="0.29.0.1123" sparkle:os="android" />
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/123/apk/app-release-signed.apk" sparkle:version="0.29.0.1123" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.29.2</title>
@@ -198,7 +198,7 @@
 （本次更新大约需要 34MiB 流量）
             </description>
             <pubDate>Thu, 9 Jan 2023 15:10:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/125/apk/app-release-signed.apk" sparkle:version="0.29.2.1125" sparkle:os="android" />
+            <enclosure url="https://aapp-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/125/apk/app-release-signed.apk" sparkle:version="0.29.2.1125" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.30.0</title>
@@ -208,7 +208,7 @@
 （本次更新大约需要 34MiB 流量）
             </description>
             <pubDate>Thu, 11 Apr 2023 21:10:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/127/apk/app-release-signed.apk" sparkle:version="0.30.0.1126" sparkle:os="android" />
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/127/apk/app-release-signed.apk" sparkle:version="0.30.0.1126" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.31.0</title>
@@ -218,7 +218,7 @@
 （本次更新大约需要 34MiB 流量）
             </description>
             <pubDate>Thu, 30 Jun 2023 14:30:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/133/apk/app-release-signed.apk" sparkle:version="0.31.0.1133" sparkle:os="android" />
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/133/apk/app-release-signed.apk" sparkle:version="0.31.0.1133" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.32.2</title>
@@ -229,7 +229,7 @@
 （本次更新大约需要 34MiB 流量）
             </description>
             <pubDate>Thu, 31 Aug 2023 22:00:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/141/apk/app-release-signed.apk" sparkle:version="0.32.2.1141" sparkle:os="android" />
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/141/apk/app-release-signed.apk" sparkle:version="0.32.2.1141" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.32.3</title>
@@ -240,7 +240,7 @@
 （本次更新大约需要 34MiB 流量）
             </description>
             <pubDate>Thu, 15 Sep 2023 20:30:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/142/apk/app-release-signed.apk" sparkle:version="0.32.3.1142" sparkle:os="android" />
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/142/apk/app-release-signed.apk" sparkle:version="0.32.3.1142" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.33.0</title>
@@ -251,7 +251,7 @@
 （本次更新大约需要 34MiB 流量）
             </description>
             <pubDate>Thu, 5 Oct 2023 17:30:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/144/apk/app-release-signed.apk" sparkle:version="0.33.0.1144" sparkle:os="android" />
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/144/apk/app-release-signed.apk" sparkle:version="0.33.0.1144" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.34.1</title>
@@ -262,7 +262,7 @@
 （本次更新大约需要 34MiB 流量）
             </description>
             <pubDate>Thu, 10 Oct 2023 20:10:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/148/apk/app-release-signed.apk" sparkle:version="0.34.1.1148" sparkle:os="android" />
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/148/apk/app-release-signed.apk" sparkle:version="0.34.1.1148" sparkle:os="android" />
         </item>
         <item>
             <title>版本 0.34.2</title>
@@ -273,7 +273,7 @@
 （本次更新大约需要 34MiB 流量）
             </description>
             <pubDate>Thu, 12 Oct 2023 23:00:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.cos.ap-beijing.myqcloud.com/actions/prescore_flutter/149/apk/app-release-signed.apk" sparkle:version="0.34.2.1149" sparkle:os="android" />
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/149/apk/app-release-signed.apk" sparkle:version="0.34.2.1149" sparkle:os="android" />
         </item>
     </channel>
 </rss>

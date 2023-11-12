@@ -287,5 +287,16 @@
             <pubDate>Thu, 4 Nov 2023 14:00:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/151/apk/app-release-signed.apk" sparkle:version="0.35.0.1151" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.36.0</title>
+            <description>
+添加了*理论上*准确的年排，支持部分考试。
+因权限问题，部分用户可能需要跳转网页下载并安装。
+如多次更新失败，请自行跳转网页下载。
+（本次更新大约需要 35MiB 流量）
+            </description>
+            <pubDate>Thu, 12 Nov 2023 13:00:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/157/apk/app-release-signed.apk" sparkle:version="0.36.0.1157" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

@@ -310,5 +310,16 @@
             <pubDate>Thu, 30 Dec 2023 20:00:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/159/apk/app-release-signed.apk" sparkle:version="0.37.0.1159" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.38.0</title>
+            <description>
+修复了已知问题。祝各位寒假快乐~
+因权限问题，部分用户可能需要跳转网页下载并安装。
+如多次更新失败，请自行跳转网页下载。
+（本次更新大约需要 35MiB 流量）
+            </description>
+            <pubDate>Thu, 23 Jan 2024 21:00:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/163/apk/app-release-signed.apk" sparkle:version="0.38.0.1163" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

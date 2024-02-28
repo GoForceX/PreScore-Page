@@ -321,5 +321,17 @@
             <pubDate>Thu, 23 Jan 2024 21:00:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/163/apk/app-release-signed.apk" sparkle:version="0.38.0.1163" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.39.100</title>
+            <description>
+高考100天纪念更新！
+添加了题目小分显示并更新了图标。
+因权限问题，部分用户可能需要跳转网页下载并安装。
+如多次更新失败，请自行跳转网页下载。
+（本次更新大约需要 35MiB 流量）
+            </description>
+            <pubDate>Thu, 28 Feb 2024 23:00:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/168/apk/app-release-signed.apk" sparkle:version="0.39.100.1168" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

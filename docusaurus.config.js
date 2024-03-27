@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: '出分啦',
-    tagline: '请注意，2024 年 1 月 10 日起，本软件将进入更新暂停期，不再提供新功能，仅提供 bug 修复。',
-    url: 'https://matrix.bjbybbs.com/',
+    tagline: '由 NPC 信息社运营的全新查分助手！',
+    url: 'https://matrix.npcstation.com/',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
@@ -120,7 +120,7 @@ const config = {
           },
         ],
         */
-                copyright: `Copyright © ${new Date().getFullYear()} GoForceX. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} GoForceX & NPC Station. Built with Docusaurus.`,
             },
             prism: {
                 theme: lightCodeTheme,

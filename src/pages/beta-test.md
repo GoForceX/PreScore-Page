@@ -22,6 +22,13 @@ hide_table_of_contents: true
 
 :::
 
+### Android
+
 测试版下载: [v0.42.0-build.1192](https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/192/apk/app-release-signed.apk)
 
 SHA1 Checksum: DBEC6DB03F622155856E9FFDFC7EC5BDC0116BE9
+
+### iOS
+
+测试版下载:
+[v0.42.0-build.9](https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter_ipa/9/PrescoreFlutter.ipa)

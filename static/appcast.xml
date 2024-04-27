@@ -365,5 +365,16 @@
             <pubDate>Sat, 13 Apr 2024 14:00:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/201/apk/app-release-signed.apk" sparkle:version="0.42.0.1201" sparkle:os="android" />
         </item>
+        </item>
+                <item>
+            <title>版本 0.43.0</title>
+            <description>
+很多功能更新，修复了很多bug。
+如多次更新失败，请自行跳转网页下载。
+（本次更新大约需要 40MiB 流量）
+            </description>
+            <pubDate>Sat, 27 Apr 2024 23:00:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/219/apk/app-release-signed.apk" sparkle:version="0.43.0.1219" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

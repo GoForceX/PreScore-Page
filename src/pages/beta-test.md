@@ -10,7 +10,7 @@ hide_table_of_contents: true
 
 :::
 
-# 现在还有需要测试的版本哦！
+# ~~现在还有需要测试的版本哦！~~ 当前暂无测试版本。
 
 ## Flutter 测试版
 
@@ -28,5 +28,4 @@ hide_table_of_contents: true
 
 ### iOS
 
-测试版下载:
-[v0.42.0-build.14](https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter_ipa/14/PrescoreFlutter.ipa)
+测试版下载: [v0.42.0-build.14](https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter_ipa/14/PrescoreFlutter.ipa)

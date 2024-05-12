@@ -1,0 +1,105 @@
+---
+sidebar_position: 2
+title: IOS 侧载安装
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+自2024年4月起，出分啦开始试验性的提供 IOS 版本。
+
+您可以使用侧载来安装 出分啦 for ios
+
+具体如何使用，请依据本篇文章。
+
+**如果您在安装中有任何问题。请加入 QQ群794613467。我们将尽力协助您完成安装。**
+
+:::tip
+开始前，请准备好如下设备：
+- 需要安装出分啦的苹果设备
+- 装有 Windows 或者 MacOS 的电脑
+- 确保您的手机/ipad可以和电脑连接。
+:::
+
+## Let's start !
+
+### Step1 下载 Altstore & 前置工作
+
+
+:::tip
+不同操作系统可能教程有所不同，请选择您的操作系统继续步骤。
+:::
+
+
+<Tabs>
+  <TabItem value="win" label="Windows 系统" default>
+    <h5>(1.win-1) 下载 itunes 和 icloud</h5>
+
+    请通过如下方式，来下载与ios设备连接的itunes以及icloud.
+
+    **itunes**
+
+    Windows 64-bit: [https://www.apple.com/itunes/download/win64](https://www.apple.com/itunes/download/win64)
+
+    Windows 32-bit: [https://www.apple.com/itunes/download/win32](https://www.apple.com/itunes/download/win32)
+        
+    **icloud**
+
+     Windows 32-bit and 64-bit: [https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe](https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe) 
+
+    <h5>(1.win-2) 下载 Altstore</h5>
+
+    - [官网下载（可能网络不稳定）](https://cdn.altstore.io/file/altstore/altinstaller.zip)
+    - [CDN(todo)](https://cdn.altstore.io/file/altstore/altinstaller.zip)
+
+  </TabItem>
+  
+  <TabItem value="mac" label="Mac 系统">
+    <h5>(1.mac-1) 下载Altstore for mac.</h5>
+
+    - [官网下载（可能网络不稳定）](https://cdn.altstore.io/file/altstore/altserver.zip)
+    - [CDN(todo)](https://cdn.altstore.io/file/altstore/altserver.zip)
+
+  </TabItem>
+</Tabs>
+
+<!-- (TODO:补全如何安装) -->
+
+然后 Connect your iOS device（通过USB数据线） to your computer and make sure it is unlocked. Trust your device with your computer if needed.
+
+在接下来 Open iTunes, then enable "Wi-Fi sync" on your device.
+
+![](https://faq.altstore.io/~gitbook/image?url=https:%2F%2F2606795771-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FAfe8qEztjcTjsjjaMBY2%252Fuploads%252F4dRni50KcazyhrMl8W5B%252F002_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59.webp%3Falt=media%26token=fffc8731-7b18-41d0-8ec5-1bacb54964d7&width=768&dpr=2&quality=100&sign=1c52a5197f4a7ec624c5ba2dd73e8b6826674c3589629a37c5ebd0008aa89f66)
+
+以上步骤mac/windows均同理。（但不要忘了确定修改。）
+
+完成到此时您已经完成了70%的工作。
+
+### Step2 安装 Altstore 并信任该应用
+
+然后通过Altserver对手机安装Altstore。稍等一会手机上就会出现Altstore。
+
+然后打开手机上的 设置 > 通用 > VPN与设备管理 。安装成功后，您能在此处看到一个“授权 \*\*\*@\*\*\*.\*\*\*开发者” 的一条通知。点击信任。
+
+（注：此处的邮箱应为安装 Altstore 时填写的 AppleID 同名邮箱。（即相信自己签名的应用（安全性参考下述[原理](#原理)部分）））
+
+恭喜，此时您已经完成了90%的工作。与此同时的，注意请您保证 **您的设备与电脑在每周（或者使用时）和电脑处于至少一次的连接。（以此来保证自签应用能一直使用）**
+
+
+### Step3 安装出分啦
+
+<!-- TODO -->
+
+在手机上下载ipa后，您可以点击通过其他应用打开。在其中选择 Altstore。此时程序将自动安装。稍等一会后，应用将完成安装。
+
+至此，安装完成。
+
+## 原理
+
+我们使用了苹果提供的侧载功能。但苹果的侧载有7天的时间限制。通过Altstore可以完成后台的自动刷新。
+
+同时该信任仅表示您信任了自己信任的程序。以及，您的安全性始终受到ios系统的保护。
+
+**所以请您保证您的设备与电脑在每周（或者使用时）和电脑处于至少一次的连接。** 
+
+或者您也可以通过Altstore手动更新。

@@ -395,5 +395,18 @@
             <pubDate>Tue, 4 Jun 2024 19:00:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/260/apk/app-release-signed.apk" sparkle:version="0.44.0.1260" sparkle:os="android" />
         </item>
+        <item>
+            <title>版本 0.44.1</title>
+            <description>
+修复了判卷进度0/0的神秘问题。
+补0.44.0版本更新内容：
+(feat) 科目分布回归并增加更多功能。
+
+如多次更新失败，请自行跳转网页下载。
+（本次更新大约需要 40MiB 流量）
+            </description>
+            <pubDate>Wed, 12 Jun 2024 22:35:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/267/apk/app-release-signed.apk" sparkle:version="0.44.0.1267" sparkle:os="android" />
+        </item>
     </channel>
 </rss>

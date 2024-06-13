@@ -402,10 +402,13 @@
 补0.44.0版本更新内容：
 (feat) 科目分布回归并增加更多功能。
 
+（好像出现了一点问题，我们正在修复。）
+（由于新项目组第一次发版不太熟悉，可能出现该消息反复出现，若已安装新版可忽略本条更新。）
+
 如多次更新失败，请自行跳转网页下载。
 （本次更新大约需要 40MiB 流量）
             </description>
-            <pubDate>Wed, 12 Jun 2024 22:35:00 +0800</pubDate>
+            <pubDate>Tue, 12 Jun 2024 22:35:00 +0800</pubDate>
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/267/apk/app-release-signed.apk" sparkle:version="0.44.1.1267" sparkle:os="android" />
         </item>
     </channel>

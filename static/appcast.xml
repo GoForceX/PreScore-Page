@@ -396,20 +396,29 @@
             <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/260/apk/app-release-signed.apk" sparkle:version="0.44.0.1260" sparkle:os="android" />
         </item>
         <item>
-            <title>版本 0.44.1</title>
+            <title>版本 0.50.0</title>
             <description>
-修复了判卷进度0/0的神秘问题。
-补0.44.0版本更新内容：
-(feat) 科目分布回归并增加更多功能。
+因为0.44.1发版出了点小问题（这次我们坚决改正！
 
+新功能：
+
+1. 增加免验证码（备用）功能登录（可能部分功能不可用（在找解决方案））
+2. 增加合并科目功能
+
+修复&提升：
+
+1. 修复了一些已知问题
+2. 删除了部分不可用功能
+3. 后端优化分布表数据。
+4. 降低“未知班级”的情况。
 （好像出现了一点问题，我们正在修复。）
-（由于新项目组第一次发版不太熟悉，可能出现该消息反复出现，若已安装新版可忽略本条更新。）
+（由于新项目组发版不太熟悉，可能出现该消息反复出现，若已安装新版可忽略本条更新。）
 
 如多次更新失败，请自行跳转网页下载。
 （本次更新大约需要 40MiB 流量）
             </description>
-            <pubDate>Tue, 12 Jun 2024 22:35:00 +0800</pubDate>
-            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/267/apk/app-release-signed.apk" sparkle:version="0.44.1.1267" sparkle:os="android" />
+            <pubDate>Tue, 6 Sep 2024 22:35:00 +0800</pubDate>
+            <enclosure url="https://app-dist-1307054264.file.myqcloud.com/actions/prescore_flutter/285/apk/app-release-signed.apk" sparkle:version="0.45.0.1267" sparkle:os="android" />
         </item>
     </channel>
 </rss>
